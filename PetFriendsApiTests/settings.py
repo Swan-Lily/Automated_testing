@@ -1,0 +1,5 @@
+valid_email = 'Liliashad@mail.ru'
+valid_password = 'Samsung1#'
+invalid_email = 'qiefjnvwir'
+invalid_password = '9384g9h'
+invalid_age = 'jkjnml'
